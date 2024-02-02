@@ -61,10 +61,14 @@ user was part of. You can print in any format you like.
 
 ### High Level Design for the given Requirements
 
-![img.png](/home/milindsahu/Desktop/test/1/splitwise/Splitwise/splitwise/Templates/img.png)
+<p>
+    <img src="design.png" width="800" height="500" />
+</p>
 
 ### Database Schema for the given Requirements
 
-![img_1.png](/home/milindsahu/Desktop/test/1/splitwise/Splitwise/splitwise/Templates/img_1.png)
+<p>
+    <img src="db.png" width="800" height="500" />
+</p>
 
 - user 
